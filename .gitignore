@@ -1,0 +1,14 @@
+# VSCode
+.vscode/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc[cod]
+
+# Build
+build/*
+
+# tmp
+tmp/*.jpg
+tmp/*.nef
