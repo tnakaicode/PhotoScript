@@ -14,7 +14,7 @@ gphoto2 --list-all-config
 - /main/capturesettings/f-number
 - /main/capturesettings/exposurecompensation
 
---setconfig NAME=Val
+--set-config NAME=Val
 
 |      | shutter | shutter 2 | f-number | exposure |
 | ---: | ------: | :-------- | :------- | -------: |
